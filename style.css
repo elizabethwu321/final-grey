@@ -41,7 +41,7 @@ a {
 	display: flex;
 	padding: 5px;
 	margin: 10px;
-	background-color: black;
+	background-color: #3a3a3a;
 	width: 25vw;
 	height: 10vh; 
 	font-family: "Futura", sans-serif;
@@ -59,7 +59,7 @@ a {
 }
 
 .titleOne:hover {
-	background-color: #3a3a3a;
+	background-color: black;
 }
 
 .titleTwo {
